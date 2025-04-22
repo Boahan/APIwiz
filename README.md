@@ -4,7 +4,7 @@ A simple and responsive web app that allows users to log their daily mood and no
 
 ## 🚀 Features
 
-- 🗓️ Daily mood selection (5 emoji/icon options)
+- 🗓️ Daily mood selection 
 - 📝 Short text note input
 - 📍 Real-time weather using Geolocation + OpenWeatherMap API
 - 📅 Calendar view to browse past entries
@@ -12,12 +12,9 @@ A simple and responsive web app that allows users to log their daily mood and no
 - 🌤️ Weather icon visualization
 - ✅ Form validation and save confirmation
 - 🔍 Filter entries by mood
-
-## 🌟 Bonus Features (Optional)
-
 - 🌙 Dark mode toggle
 - 📤 Export journal entries as CSV or PDF
-- 📊 Mood trend visualization (weekly/monthly)
+- 📊 Mood trend visualization
 
 ## 🛠️ Tech Stack
 
