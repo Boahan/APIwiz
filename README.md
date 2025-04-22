@@ -2,6 +2,8 @@
 
 A simple and responsive web app that allows users to log their daily mood and notes, along with real-time weather data based on their current location.
 
+🔗 **Live Demo**: [https://neon-selkie-b72232.netlify.app/](https://neon-selkie-b72232.netlify.app/)
+
 ## 🚀 Features
 
 - 🗓️ Daily mood selection 
@@ -30,12 +32,15 @@ A simple and responsive web app that allows users to log their daily mood and no
 
 2. Install dependencies 
    `npm install`
-   `npm run dev`
 
-4. Add your OpenWeatherMap API key in a `.env` file (if applicable)  
+3. Add your OpenWeatherMap API key in a `.env` file (if applicable)  
    `VITE_WEATHER_API_KEY=your_api_key`
 
-5. Start the app  
+4. Start the app  
    `npm run dev` or just open `index.html` for plain JS
 
+## 📬 Contact
+
+For queries or collaboration, feel free to reach out:  
+📧 **shaswatgusain1@gmail.com**
 
