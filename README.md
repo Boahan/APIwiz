@@ -37,7 +37,7 @@ A simple and responsive web app that allows users to log their daily mood and no
    `VITE_WEATHER_API_KEY=your_api_key`
 
 4. Start the app  
-   `npm run dev` or just open `index.html` for plain JS
+   `npm run dev` 
 
 ## 📬 Contact
 
